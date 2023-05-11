@@ -1492,7 +1492,7 @@ supported.
 ### Features
 
 * **cache:** remove `cache` operator ([1b23ace](https://github.com/ReactiveX/RxJS/commit/1b23ace))
-* **ES2015:** stop publishing `rxjs-es`, ES2015 output no longer included in `@reactivex/rxjs` package under `/dist/es6` ([6be9968](https://github.com/ReactiveX/RxJS/commit/6be9968)), closes [#1671](https://github.com/ReactiveX/RxJS/issues/1671)
+* **ES2015:** stop publishing `rxjs-es`, ES2015 output no longer included in `@exodus/rxjs` package under `/dist/es6` ([6be9968](https://github.com/ReactiveX/RxJS/commit/6be9968)), closes [#1671](https://github.com/ReactiveX/RxJS/issues/1671)
 * **filter:** Observable<T>.filter() can take type guard as the predicate function ([d62fbf0](https://github.com/ReactiveX/RxJS/commit/d62fbf0))
 * **find:** Observable<T>.find() can take type guard as the predicate function ([b952718](https://github.com/ReactiveX/RxJS/commit/b952718))
 * **first:** Observable<T>.first() can take type guard as the predicate function ([f99ca49](https://github.com/ReactiveX/RxJS/commit/f99ca49))
@@ -1505,7 +1505,7 @@ supported.
 
 * **cache:** The .cache() operator has been removed, pending further discussion ([1b23ace](https://github.com/ReactiveX/RxJS/commit/1b23ace))
 * ES2015: `rxjs-es` is no longer being published
-* ES2015: `@reactivex/rxjs` no longer has `/dist/es6` output
+* ES2015: `@exodus/rxjs` no longer has `/dist/es6` output
 
 related #2016
 related #1992

@@ -17,7 +17,7 @@ it.asDiagram = function asDiagram() {
 
 module.exports = {
   require: {
-    '@reactivex/rxjs': Rx
+    '@exodus/rxjs': Rx
   },
 
   globals: {

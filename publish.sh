@@ -53,7 +53,7 @@ select branch in "master" "stable"; do
   done
 
 
-  read -p "Ready to publish @reactivex/rxjs@$version. [Enter] to continue"
+  read -p "Ready to publish @exodus/rxjs@$version. [Enter] to continue"
   npm publish
 
   read -p "Ready to publish rxjs@$version. [Enter] to continue"

@@ -54,21 +54,21 @@ typings install es6-shim --ambient
 To install this library via npm version 3, use the following command:
 
 ```js
-npm install @reactivex/rxjs
+npm install @exodus/rxjs
 ```
 
 If you are using npm version 2 before this library has achieved a stable version, you need to specify the library version explicitly:
 
 ```js
-npm install @reactivex/rxjs@5.0.0-beta.1
+npm install @exodus/rxjs@5.0.0-beta.1
 ```
 
 ## CDN
 
 For CDN, you can use [unpkg](https://unpkg.com/). Just replace version with the current version on the link below:
 
-For RxJS 5.0.0-beta.1 through beta.11: [https://unpkg.com/@reactivex/rxjs@version/dist/global/Rx.umd.js](https://unpkg.com/@reactivex/rxjs@version/dist/global/Rx.umd.js)
+For RxJS 5.0.0-beta.1 through beta.11: [https://unpkg.com/@exodus/rxjs@version/dist/global/Rx.umd.js](https://unpkg.com/@exodus/rxjs@version/dist/global/Rx.umd.js)
 
-For RxJS 5.0.0-beta.12 and higher: [https://unpkg.com/@reactivex/rxjs@version/dist/global/Rx.js](https://unpkg.com/@reactivex/rxjs@version/dist/global/Rx.js)
+For RxJS 5.0.0-beta.12 and higher: [https://unpkg.com/@exodus/rxjs@version/dist/global/Rx.js](https://unpkg.com/@exodus/rxjs@version/dist/global/Rx.js)
 
-For RxJS 6.0.0 and higher: [https://unpkg.com/@reactivex/rxjs@version/dist/global/rxjs.umd.js](https://unpkg.com/@reactivex/rxjs@version/dist/global/rxjs.umd.js)
+For RxJS 6.0.0 and higher: [https://unpkg.com/@exodus/rxjs@version/dist/global/rxjs.umd.js](https://unpkg.com/@exodus/rxjs@version/dist/global/rxjs.umd.js)
