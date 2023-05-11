@@ -1,6 +1,6 @@
 {
   "name": "@exodus/rxjs",
-  "version": "6.6.7",
+  "version": "6.6.7-exodus.0",
   "description": "Reactive Extensions for modern JavaScript",
   "main": "index.js",
   "sideEffects": false,
