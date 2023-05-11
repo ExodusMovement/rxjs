@@ -39,19 +39,20 @@ const SRC_ROOT_PKG = PKG_ROOT +  'src/';
 const TYPE_PKG = PKG_ROOT;
 
 // License info for minified files
-let licenseUrl = 'https://github.com/ReactiveX/RxJS/blob/master/LICENSE.txt';
+let licenseUrl = 'https://github.com/ExodusMovement/rxjs/blob/exodus-fork/LICENSE.txt';
 let license = 'Apache License 2.0 ' + licenseUrl;
 
 delete pkg.scripts;
 fs.removeSync(PKG_ROOT);
 
-let rootPackageJson = Object.assign({}, pkg, {
-  name: 'rxjs',
+let rootPackageJson = {
+  ...pkg,
+  name: '@exodus/rxjs',
   main: './index.js',
   typings: './index.d.ts',
   module: './_esm5/index.js',
   es2015: './_esm2015/index.js'
-});
+};
 
 // Execute build optimizer transforms on ESM5 files
 klawSync(ESM5_ROOT, {

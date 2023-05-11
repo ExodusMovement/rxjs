@@ -29,7 +29,7 @@ const SRC_ROOT_PKG = PKG_ROOT +  'src/';
 const TYPE_PKG = PKG_ROOT;
 
 // License info for minified files
-let licenseUrl = 'https://github.com/ReactiveX/RxJS/blob/master/LICENSE.txt';
+let licenseUrl = 'https://github.com/ExodusMovement/rxjs/blob/exodus-fork/LICENSE.txt';
 let license = 'Apache License 2.0 ' + licenseUrl;
 
 // Recreate the distribution folder
