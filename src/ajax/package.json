@@ -1,5 +1,5 @@
 {
-  "name": "rxjs/ajax",
+  "name": "@exodus/rxjs-ajax",
   "typings": "./index.d.ts",
   "main": "./index.js",
   "module": "../_esm5/ajax/index.js",

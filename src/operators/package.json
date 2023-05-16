@@ -1,5 +1,5 @@
 {
-  "name": "rxjs/operators",
+  "name": "@exodus/rxjs-operators",
   "typings": "./index.d.ts",
   "main": "./index.js",
   "module": "../_esm5/operators/index.js",

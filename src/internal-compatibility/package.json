@@ -1,5 +1,5 @@
 {
-  "name": "rxjs/internal-compatibility",
+  "name": "@exodus/rxjs-internal-compatibility",
   "typings": "./index.d.ts",
   "main": "./index.js",
   "module": "../_esm5/internal-compatibility/index.js",

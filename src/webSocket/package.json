@@ -1,5 +1,5 @@
 {
-  "name": "rxjs/webSocket",
+  "name": "@exodus/rxjs-webSocket",
   "typings": "./index.d.ts",
   "main": "./index.js",
   "module": "../_esm5/webSocket/index.js",

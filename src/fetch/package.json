@@ -1,5 +1,5 @@
 {
-  "name": "rxjs/fetch",
+  "name": "@exodus/rxjs-fetch",
   "typings": "./index.d.ts",
   "main": "./index.js",
   "module": "../_esm5/fetch/index.js",
