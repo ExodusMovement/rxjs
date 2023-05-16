@@ -3,10 +3,10 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@exodus/rxjs": ["./src"],
-      "@exodus/rxjs/*": ["./src/*", "./legacy-reexport/*"],
-      "@exodus/rxjs-compat": ["./compat/index"],
-      "@exodus/rxjs-compat/*": ["./compat/*"]
+      "rxjs": ["./src"],
+      "rxjs/*": ["./src/*", "./legacy-reexport/*"],
+      "rxjs-compat": ["./compat/index"],
+      "rxjs-compat/*": ["./compat/*"]
     }
   },
   "exclude": ["./dist", "./dist-compat"]
